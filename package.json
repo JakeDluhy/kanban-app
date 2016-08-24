@@ -38,6 +38,7 @@
     "karma-coverage": "^1.0.0",
     "karma-mocha": "^1.0.1",
     "karma-phantomjs-launcher": "^1.0.0",
+    "karma-sinon": "^1.0.5",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "0.0.26",
     "karma-webpack": "^1.7.0",
@@ -47,6 +48,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "react-addons-perf": "^15.1.0",
     "react-addons-test-utils": "^15.1.0",
+    "sinon": "^1.17.4",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1",
@@ -54,7 +56,15 @@
     "webpack-validator": "^2.1.1"
   },
   "dependencies": {
+    "alt": "^0.18.5",
+    "alt-container": "^1.0.2",
+    "alt-utils": "^1.0.0",
+    "classnames": "^2.2.5",
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-addons-update": "^15.2.1",
+    "react-dnd": "^2.1.4",
+    "react-dnd-html5-backend": "^2.1.2",
+    "react-dom": "^15.1.0",
+    "redux": "^3.5.2"
   }
 }
